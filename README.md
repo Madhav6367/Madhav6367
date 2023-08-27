@@ -1,8 +1,12 @@
 - 👋 Hi, I'm Madhav Sharma
 - 👀 I'm interested in  learning New Technologies
+- I Also learn Languages ,Languages are:-
+-                                  1. C , C++
+-                                  2. JAVA
+-                                  3. DSA
 - 😎 I' m currently prusueing BTech in the field of "INFORMATION TECHNOLOGY" from JECRC Collage "Jaipur"
 - 🌱 In Addition I'm currently pursueing "MEarn Stack Development Course" from Regex
-- 💞️ I'm looking for an Internship for Increasing my Experince And Gaining knowledeg
+- 💞️ I'm looking for an Internship for Increasing my Experince And Gaining knowledge
 - Contact me :- 
 - 📫       1. Email-ID: sharmamadhav15063@gmail.com;
             Contact NO. : 6367076996;
